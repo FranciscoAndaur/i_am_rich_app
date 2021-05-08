@@ -8,7 +8,7 @@ void main() {
       home: Scaffold(
         body: Center(
           child: Image(
-            image: NetworkImage('https://www.franciscoandaur.com/static/cf4e4fbfe2e86d34fb5ad0c84ae484e2/5707d/hero-img.png'),
+            image: AssetImage('images/diamond.png'),
 
           ),
         ),
